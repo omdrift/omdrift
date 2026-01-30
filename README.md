@@ -7,8 +7,17 @@ Etudiant en M2 informatique parcours données à l'Université de La Rochelle
 - Computer Vision & Deep Learning
 - Multi-object tracking & behavior analysis
 - Machine Learning appliqué aux données complexes
-- NLP & LLMs pour l’analyse prédictive
+- NLP & LLMs 
 - Data Engineering & pipelines ML
+- Une étude approfondie de la littérature scientifique a été menée afin d’identifier
+les approches existantes, leurs limites et les axes d’amélioration possibles.
+
+### 🔍 Domaines explorés
+- Méthodes de Deep Learning supervisées et non supervisées
+- Approches basées sur CNN / Transformers
+- Méthodes de tracking multi-objets
+- Techniques de fusion multimodale (vision / texte)
+- Projet R&D end-to-end combinant agents IA et analyse intelligente de documents.
 
 ## 🚀 Key Projects
 
