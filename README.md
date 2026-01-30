@@ -38,8 +38,7 @@ Etudiant en M2 informatique parcours données à l'Université de La Rochelle
 
 ---
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=omdrift&theme=dark&no-frame=true&row=1)
+
 [![](https://visitcount.itsvg.in/api?id=omdrift&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🏆 Highlights
