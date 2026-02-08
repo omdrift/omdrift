@@ -50,9 +50,3 @@ les approches existantes, leurs limites et les axes d’amélioration possibles.
 
 [![](https://visitcount.itsvg.in/api?id=omdrift&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🏆 Highlights
-- 📌 Lettre de recommandation académique (Professeur des Universités – L3i)
-- 🔬 Projets R&D en vision par ordinateur et deep learning
-- 📊 Modèles ML avec précision > 70 % en conditions complexes
-- 🧠 Projets NLP & LLMs appliqués à des données réelles
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
