@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Amine OUBAIDI
 ![Profile Views](https://komarev.com/ghpvc/?username=omdrift&color=blue&style=flat-square)
 
-Etudiant en M2 informatique parcours données à l'Université de La Rochelle
+Diplômée en Master informatique parcours données à l'Université de La Rochelle
 
 ## 🧪 Research & Data Interests
 - Computer Vision & Deep Learning
