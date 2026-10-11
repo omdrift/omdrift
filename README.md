@@ -300,30 +300,8 @@ Studied joint text–image representations for document retrieval and evaluated 
 
 ---
 
-## 08 · Certifications
 
-<div align="center">
-
-**DeepLearning.AI / Coursera**
-
-<img src="https://img.shields.io/badge/Deep%20Learning-Specialization-6D28D9?style=for-the-badge&labelColor=141329" alt="Deep Learning specialization" />
-<img src="https://img.shields.io/badge/Machine%20Learning-Specialization-7C3AED?style=for-the-badge&labelColor=141329" alt="Machine Learning specialization" />
-
-**IBM**
-
-<img src="https://img.shields.io/badge/IBM-Data%20Science%20Professional-4C1D95?style=for-the-badge&logo=ibm&logoColor=white&labelColor=141329" alt="IBM Data Science Professional" />
-
-
-
-**HackerRank**
-
-<img src="https://img.shields.io/badge/HackerRank-Problem%20Solving%20%28Intermediate%29-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=141329" alt="HackerRank Problem Solving Intermediate certificate" />
-
-</div>
-
----
-
-## 09 · Coding Profiles
+## 08 · Coding Profiles
 
 <div align="center">
 
@@ -334,7 +312,7 @@ Studied joint text–image representations for document retrieval and evaluated 
 
 ---
 
-## 10 · GitHub Analytics
+## 09 · GitHub Analytics
 
 <div align="center">
 
@@ -347,35 +325,7 @@ Studied joint text–image representations for document retrieval and evaluated 
 
 </div>
 
----
 
-## 11 · GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=omdrift&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub achievements and trophies" />
-
-</div>
-
----
-
-## 12 · Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=omdrift&bg_color=0B1026&color=C4B5FD&line=8B5CF6&point=E9D5FF&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
-
-</div>
-
----
-
-## 13 · Contribution Snake
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/omdrift/omdrift/output/github-contribution-grid-snake-dark.svg" alt="Animated snake moving across GitHub contributions (requires the accompanying GitHub Actions workflow to run once)" />
-
-</div>
 
 ---
 
