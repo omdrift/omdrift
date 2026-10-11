@@ -313,9 +313,7 @@ Studied joint text–image representations for document retrieval and evaluated 
 
 <img src="https://img.shields.io/badge/IBM-Data%20Science%20Professional-4C1D95?style=for-the-badge&logo=ibm&logoColor=white&labelColor=141329" alt="IBM Data Science Professional" />
 
-**Microsoft**
 
-<img src="https://img.shields.io/badge/Microsoft-PL--300-4338CA?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=141329" alt="Microsoft PL-300" />
 
 **HackerRank**
 
