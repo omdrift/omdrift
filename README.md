@@ -1,32 +1,43 @@
 # Amine Oubaidi
 
-**Junior AI Engineer · PyTorch · Computer Vision · Python services**
+Diplômé en Master informatique parcours données à l'Université de La Rochelle.
 
-MSc Computer Science, Data Engineering — La Rochelle University, 2026. Based in Île-de-France; available for a junior permanent role.
+<a href="https://github.com/omdrift">GitHub</a>
 
-[Portfolio](https://oubaidiamine-portfolio.netlify.app/) · [CV (PDF, French)](https://github.com/omdrift/oubaidiamine-portfolio/blob/main/amine-portfolio/documents/CV_Amine_Oubaidi.pdf) · [LinkedIn](https://fr.linkedin.com/in/amine-oubaidi-600315233) · [Email](mailto:amine.oubaidi010@gmail.com)
+## Now
 
-I build applied deep learning projects and the software around them: preparing data, training and evaluating models, exposing APIs and documenting results. My background combines two research internships at **L3i Laboratory** and an industry internship at **Enedis**.
+Right now I'm working on **[Modelisation-panaches-de-fum-es-industrielles-par-Flow-Matching](https://github.com/omdrift/Modelisation-panaches-de-fum-es-industrielles-par-Flow-Matching)**.
 
-## Selected projects
+## Selected work
 
-| Project | What I built | Evidence |
-| --- | --- | --- |
-| **Industrial smoke video modelling** | A PyTorch workflow combining VQGAN representations and Flow Matching, with video preparation, GPU experiments and generated-versus-real comparisons. | [Code, methodology & visual results](https://github.com/omdrift/Modelisation-panaches-de-fum-es-industrielles-par-Flow-Matching) |
-| **Facial attributes & MLOps** | A five-head CNN with DVC pipelines, MLflow tracking, Airflow orchestration and a FastAPI/Docker inference service. | [Code & demo](https://github.com/omdrift/mlops_face_attribute_classification) · [Recorded evaluation](https://github.com/omdrift/mlops_face_attribute_classification/blob/master/metrics/eval_metrics.json) |
-| **CareerPilot · CV Matcher** | A local, single-user React/FastAPI MVP for job ingestion, explainable lexical matching, evidence-based text drafts and application tracking. Optional Ollama generation. | [Project overview](https://oubaidiamine-portfolio.netlify.app/#project-cv-matcher) · Private repository |
+<table>
+<thead><tr><th align="left">Project</th><th align="left">What it does</th><th align="left">Stack</th><th align="right">Stars</th></tr></thead>
+<tbody>
+<tr><td align="left"><a href="https://github.com/omdrift/mlops_face_attribute_classification">mlops_face_attribute_classification</a></td><td align="left">No description yet.</td><td align="left">Jupyter Notebook</td><td align="right">0</td></tr>
+<tr><td align="left"><a href="https://github.com/omdrift/Modelisation-panaches-de-fum-es-industrielles-par-Flow-Matching">Modelisation-panaches-de-fum-es-industrielles-par-Flow-Matching</a></td><td align="left">No description yet.</td><td align="left">Python</td><td align="right">2</td></tr>
+<tr><td align="left"><a href="https://github.com/omdrift/omdrift">omdrift</a></td><td align="left">No description yet.</td><td align="left">—</td><td align="right">0</td></tr>
+<tr><td align="left"><a href="https://github.com/omdrift/Recommendation-">Recommendation-</a></td><td align="left">No description yet.</td><td align="left">—</td><td align="right">0</td></tr>
+<tr><td align="left"><a href="https://github.com/omdrift/stage-M1-Analyse-video-souris-laboratoire">stage-M1-Analyse-video-souris-laboratoire</a></td><td align="left">Internship report</td><td align="left">—</td><td align="right">0</td></tr>
+</tbody>
+</table>
 
-## Research and industry experience
+## Stack
 
-- **Enedis · 2026:** Python document processing, local OCR and QR extraction, data reconciliation, Power BI and workflow automation.
-- **L3i · 2025:** laboratory mouse pose estimation and tracking; Keypoint R-CNN adaptation, data preparation, GPU experiments and a PyQt5 inspection interface. [Internship report](https://github.com/omdrift/stage-M1-Analyse-video-souris-laboratoire) · [Recommendation letter](https://github.com/omdrift/oubaidiamine-portfolio/blob/main/amine-portfolio/documents/recommandation-l3i-2025.pdf).
-- **L3i · 2024:** text–image document retrieval on RVL-CDIP, using VGG-19 and Word2Vec/CNN features with a shared embedding space and mAP evaluation.
+Jupyter Notebook, Python, JavaScript, CSS, HTML, Dockerfile.
 
-## Tools I use
+---
 
-- **Modelling:** Python, PyTorch, scikit-learn, OpenCV, Hugging Face.
-- **Experimentation:** MLflow, Weights & Biases, DVC, Optuna / Hyperopt.
-- **Applications:** FastAPI, Pydantic, SQLAlchemy, PostgreSQL, React / TypeScript; Java / Spring Boot in academic projects.
-- **Delivery:** Docker, GitHub Actions, pytest, Git and Linux.
+<sub>7 public repositories · 2 stars · 272 contributions in the last year · Case File by <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
 
-My current focus is reliable evaluation, reproducible experiments and useful AI applications. Also open to applied Deep Learning PhD opportunities in the Paris region.
+<!-- gitskins:architecture -->
+### How [Modelisation-panaches-de-fum-es-industrielles-par-Flow-Matching](https://github.com/omdrift/Modelisation-panaches-de-fum-es-industrielles-par-Flow-Matching) works
+
+Industrial Plume Forecasting is a research pipeline that prepares RISE smoke videos into 36-frame 64x64 clips, learns a VQGAN latent representation, and compares Flow Matching predictors that forecast 15 frames from 5 o…
+
+<a href="https://github.com/omdrift/Modelisation-panaches-de-fum-es-industrielles-par-Flow-Matching"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/repo-diagram/image?owner=omdrift&amp;repo=Modelisation-panaches-de-fum-es-industrielles-par-Flow-Matching&amp;theme=dark&amp;v=1794115581750">
+  <img alt="Architecture diagram of omdrift/Modelisation-panaches-de-fum-es-industrielles-par-Flow-Matching" src="https://www.gitskins.com/api/repo-diagram/image?owner=omdrift&amp;repo=Modelisation-panaches-de-fum-es-industrielles-par-Flow-Matching&amp;theme=light&amp;v=1794115581750">
+</picture></a>
+
+<sub>Drawn from the code by <a href="https://www.gitskins.com">GitSkins</a></sub>
+<!-- /gitskins:architecture -->
